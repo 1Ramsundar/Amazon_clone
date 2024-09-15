@@ -1,2 +1,8 @@
-# Amazon_clone
-This is a Project Made for NSCC Club. It contains Amazon Clone made using HTML,CSS,Javascript
+# Cloning Amazon site with HTML & CSS and Javascript
+
+# This is made for NSCC Club SRM by Ramsundar
+
+# RA2311030010144
+
+# CSE- Cybersecurity
+
